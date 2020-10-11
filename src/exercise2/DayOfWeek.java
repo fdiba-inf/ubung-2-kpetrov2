@@ -12,36 +12,36 @@ public class DayOfWeek {
         int number = input.nextInt();
       
         if (number == 1) {
-          System.out.println("Day of Week: Monday");
+          System.out.println("Day of week: Monday");
 
         }
         
         else if (number == 2) {
-          System.out.println("Day of Week: Tuesday");
+          System.out.println("Day of week: Tuesday");
 
         }
         else if (number == 3) {
-          System.out.println("Day of Week: Wednesday");
+          System.out.println("Day of week: Wednesday");
 
         }
         else if (number == 4) {
-          System.out.println("Day of Week: Thursday");
+          System.out.println("Day of week: Thursday");
 
         }
         else if (number == 5) {
-          System.out.println("Day of Week: Friday");
+          System.out.println("Day of week: Friday");
 
         }
         else if (number == 6) {
-          System.out.println("Day of Week: Saturday");
+          System.out.println("Day of week: Saturday");
 
         }
         else if (number == 7) {
-          System.out.println("Day of Week: Sunday");
+          System.out.println("Day of week: Sunday");
 
         }
         else {
-          System.out.println("Day of Week: Invalid day");
+          System.out.println("Day of week: Invalid day");
 
         }
     }
