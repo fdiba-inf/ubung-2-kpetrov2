@@ -8,8 +8,7 @@ public class DayOfWeek {
        
        Scanner input = new Scanner(System.in);
 
-        System.out.print("Type 1 to 7, if you want: ");
-       
+        
         int number = input.nextInt();
       
         if (number == 1) {
