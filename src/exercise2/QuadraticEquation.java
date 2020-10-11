@@ -28,7 +28,7 @@ public class QuadraticEquation {
         double x2 = ((-b) - (Math.sqrt(D))) / (2*a);
 
         System.out.print(x1);
-        System.out.print("," + x2);
+        System.out.print(", " + x2);
       }
       else {
 
